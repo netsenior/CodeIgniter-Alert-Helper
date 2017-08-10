@@ -1,1 +1,1 @@
-Helper para exibir menagens de retorno no framework CodeIgniter
+Helper para exibir mensagens de retorno no framework CodeIgniter
